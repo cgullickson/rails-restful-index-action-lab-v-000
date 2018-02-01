@@ -1,3 +1,3 @@
 class StudentsController < ApplicationController
-  @students = Students.all
+  @students = Student.all
 end
